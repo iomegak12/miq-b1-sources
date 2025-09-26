@@ -1,0 +1,7 @@
+mcp[cli]
+httpx
+fastapi
+uvicorn
+
+langgraph
+langchain-mcp-adapters
