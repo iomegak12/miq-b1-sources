@@ -28,9 +28,9 @@ streamlit
 # langgraph
 # langchain-anthropic
 
-# chroma
-# langchain-chroma
-# nbformat
+chroma
+langchain-chroma
+nbformat
 
 wikipedia
 arxiv
